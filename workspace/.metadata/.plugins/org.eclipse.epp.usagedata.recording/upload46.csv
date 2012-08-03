@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343941882522
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343941887227
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343941892323
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343941896772
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343941899281
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343941899951
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343941901379
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1343941901379
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343941904755
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343941980876
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942013348
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942029632
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942033012
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942035824
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942043811
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942044185
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942046807
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942049048
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942051610
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942052856
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942055190
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942056147
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942060568
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942060826
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942063245
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942070211
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942140899
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942146004
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1343942169366
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343942171659
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343942186658
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343942207223
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343942208071
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942220832
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942232104
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942305240
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942306953
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1343942438779
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343942442741
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942473730
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1343942487601
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343942488605
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942496322
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942498157
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942586934
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942658809
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942664251
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1343942673538
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942674108
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942733527
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942736855
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942737622
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942737709
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942770438
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942772867
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942773692
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942793028
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1343942794499
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1343942795037
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1343942795140
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942798719
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942804304
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942838649
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942838985
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343942839334
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942841706
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942843477
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1343942852963
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1343942858440
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942864777
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942865088
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343942865450
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942866107
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942869130
+error,log,,,"",1343942869136
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942898827
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.findReplace",1343942898850
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942905857
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942907381
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942922813
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942954363
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942966776
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343942967397
+started,bundle,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.ui",1343942967926
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942968089
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343942970126
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343942972019
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942973896
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942975270
+error,log,,,"Failed to add marker 'com.android.ide.eclipse.adt.lintProblem' to '/Player/AndroidManifest.xml'",1343942975308
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343942978475
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943023543
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943024688
+error,log,,,"Unhandled event loop exception",1343943027845
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343943037985
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943107372
+error,log,,,"Unhandled event loop exception",1343943107388
+error,log,,,"Unhandled event loop exception",1343943108335
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343943111304
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343943141632
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943151123
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943153722
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1343943155746
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343943156338
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343943158286
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943160239
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1343943160611
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943165591
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943167194
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943168346
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943168905
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943169240
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943169679
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943169984
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943170416
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943170722
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943171119
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943171448
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943172263
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943172505
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943173055
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943173296
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943173488
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943173640
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943173759
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943173864
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943173983
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943174088
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943174231
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943174344
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943174815
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943175104
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943175734
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943176087
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343943177632
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343943181458
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943182131
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943183325
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943186906
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943251940
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943254563
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343943255243
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943270641
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.findReplace",1343943270668
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943276658
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343943293514
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943295558
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343943297542
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343943298011
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343943314528
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943315630
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943317075
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943319481
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943358358
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343943400152
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343943401454
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343943417148
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943420437
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943421250
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943424064
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943455202
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343943481178
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943482805
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943484130
+error,log,,,"",1343943484152
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943487444
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943535287
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343943538094
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineEnd",1343943538677
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343943539389
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943541550
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343943544875
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943732133
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943788347
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943795388
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343943799290
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943801410
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343943833767
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943864723
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943868784
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943872180
+error,log,,,"Unhandled event loop exception",1343943875126
+error,log,,,"Unhandled event loop exception",1343943875134
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343943877263
+error,log,,,"Unhandled event loop exception",1343943877273
+error,log,,,"Unhandled event loop exception",1343943877876
+error,log,,,"Unhandled event loop exception",1343943877878
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343943877944
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343943879387
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943879387
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1343943880202
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943880551
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943880605
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943891654
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943894011
+error,log,,,"Unhandled event loop exception",1343943894144
+error,log,,,"Unhandled event loop exception",1343943894147
+error,log,,,"Unhandled event loop exception",1343943894149
+error,log,,,"Unhandled event loop exception",1343943894158
+error,log,,,"Unhandled event loop exception",1343943894913
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343943898255
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943903631
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943904844
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943911839
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943915046
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343943917428
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343943924204
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1343943926887
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943928807
+error,log,,,"Unhandled event loop exception",1343943930077
+error,log,,,"Unhandled event loop exception",1343943930086
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1343943932412
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943932412
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1343943934136
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943934420
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943934467
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343943939241
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343943942577
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343943946355
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343943947169
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343943947324
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943949798
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943950511
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343943954540
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944013052
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343944050549
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343944151507
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343944157640
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944159218
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944159661
+error,log,,,"Failed to add marker 'com.android.ide.eclipse.adt.lintProblem' to '/Player/AndroidManifest.xml'",1343944159685
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944161475
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944162965
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343944174455
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343944219370
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343944220609
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343944221312
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343944224221
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343944225882
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343944237614
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944240489
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944241521
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343944242384
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343944242928
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343944245461
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343944246113
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944247253
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944248043
+error,log,,,"",1343944248070
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944249627
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944254052
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944254418
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944306244
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343944310231
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343944330513
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343944331693
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343944334331
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343944336464
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343944339850
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944340931
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944341987
+error,log,,,"",1343944342020
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944343459
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944370254
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343944373148
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1343944385380
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343944388262
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343944397309
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343944397627
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343944416554
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343944417976
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343944419503
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944420814
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343944421493
+error,log,,,"Failed to add marker 'com.android.ide.eclipse.adt.lintProblem' to '/Player/AndroidManifest.xml'",1343944421528

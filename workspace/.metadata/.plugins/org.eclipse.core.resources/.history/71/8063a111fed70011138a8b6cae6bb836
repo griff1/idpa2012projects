@@ -1,0 +1,80 @@
+package com.sample.threading;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.ProgressBar;
+
+public class ThreadingActivity extends Activity implements OnClickListener{
+        ProgressBar bar;
+        Handler handler = new Handler(){
+                @Override
+                public void handleMessage(Message msg){
+                        bar.incrementProgressBy(5);
+                }
+        };
+        boolean isRunning = false;
+        @Override
+        public void onCreate(Bundle savedInstanceState) {
+                super.onCreate(savedInstanceState);
+                setContentView(R.layout.main);
+                
+                bar = (ProgressBar) findViewById(R.id.progressBar1);
+        }
+        Thread back = new Thread(new Runnable(){
+        	public void run(){
+        		try{
+        			for(int i = 0; i <20 && isRunning; i++){
+        				Thread.sleep(1000);
+        				handler.sendMessage(handler.obtainMessage());
+        			}
+        		}
+        		catch(Throwable e){
+
+        		}
+        	}
+        });
+        public void onStart(){
+                super.onStart();
+                bar.setProgress(0);
+                isRunning = true;
+                back.start();
+        }
+        public void onStop(){
+                super.onStop();
+                isRunning = false;
+        }
+        public void start()
+        {
+        	Thread back = new Thread(new Runnable(){
+        		public void run(){
+        			try{
+        				for(int i = 0; i <20 && isRunning; i++){
+        					Thread.sleep(1000);
+        					handler.sendMessage(handler.obtainMessage());
+        				}
+        			}
+        			catch(Throwable e){
+
+        			}
+        		}
+        	});
+        	isRunning = true;
+        	back.start();
+        }
+		public void onClick(View v) 
+		{
+			if(v.equals((Button) findViewById(R.id.button1)))
+					back.notify();
+			else
+			{
+				try{
+					back.wait();
+				}catch(Exception e){System.out.println(e);}
+			}
+		}
+}

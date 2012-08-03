@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, IOActivity!</string>
+    <string name="app_name">IO</string>
+    <string name="CreateFile">Create File</string>
+    <string name="ReadFile">Read File</string>
+    <string name="item1">Item1</string>
+
+</resources>

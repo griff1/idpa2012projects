@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="151dp"
+            android:text="@string/CurrentSong2"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="28dp"
+            android:text="@string/Share"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="15dp" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="@string/Tap" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/textView1"
+            android:layout_marginTop="75dp"
+            android:text="@string/CurrentSong3"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/textView3"
+            android:layout_marginTop="38dp"
+            android:text="@string/Tap2" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="75dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/button2"
+            android:layout_centerHorizontal="true"
+            android:text="@string/Pause" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="75dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/textView1"
+            android:layout_marginTop="16dp"
+            android:layout_toLeftOf="@+id/button4"
+            android:text="@string/Play" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="75dp"
+            android:layout_height="50dp"
+            android:layout_alignBaseline="@+id/button3"
+            android:layout_alignBottom="@+id/button3"
+            android:layout_marginLeft="14dp"
+            android:layout_toRightOf="@+id/button4"
+            android:text="@string/Pause" />
+
+    </RelativeLayout>
+	
+</LinearLayout>

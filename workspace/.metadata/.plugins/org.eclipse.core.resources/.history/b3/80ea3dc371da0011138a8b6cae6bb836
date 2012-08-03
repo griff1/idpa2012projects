@@ -1,0 +1,124 @@
+package com.sample.nfctest;
+
+import java.io.IOException;
+
+import java.nio.charset.Charset;
+
+import android.app.Activity;
+import android.app.PendingIntent;
+import android.content.Intent;
+import android.content.IntentFilter;
+import android.content.IntentFilter.MalformedMimeTypeException;
+import android.nfc.*;
+import android.nfc.tech.*;
+import android.os.Bundle;
+import android.widget.EditText;
+import android.widget.Toast;
+import android.nfc.NdefRecord;
+import android.webkit.MimeTypeMap;
+
+public class NFCPracActivity extends Activity {
+
+	NfcAdapter mAdapter;
+	IntentFilter mNdefExchangeFilters[];
+	IntentFilter ndefDetected;
+	PendingIntent mNfcPendingIntent;
+	boolean mInWriteMode = false;
+	EditText text1 = (EditText) findViewById(R.id.editText1);
+	EditText text2 = (EditText) findViewById(R.id.editText1);
+
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		NfcAdapter nfcAdapter = NfcAdapter.getDefaultAdapter(this);
+		if (nfcAdapter == null) 
+		{
+			System.out.println("No NFC.  Sucks to suck.");  
+			return;
+		}
+	}
+	public void onNewIntent(Intent intent) {
+		if(mInWriteMode) {
+			mInWriteMode = false;
+			Tag tag = intent.getParcelableExtra(NfcAdapter.EXTRA_TAG);
+			writeTag(tag);
+		}
+	}
+
+	private boolean writeTag(Tag tag) {
+		// record to launch Play Store if app is not installed
+		NdefRecord appRecord = NdefRecord.createApplicationRecord("com.sample.notifications");
+
+		// record that contains our custom "retro console" game data, using custom MIME_TYPE
+		byte[] payload = getRandomConsole().getBytes();
+		byte[] mimeBytes = MimeType.NFC_DEMO.getBytes(Charset.forName("US-ASCII"));
+		NdefRecord cardRecord = new NdefRecord(NdefRecord.TNF_MIME_MEDIA, mimeBytes, new byte[0], payload);
+		NdefMessage message = new NdefMessage(new NdefRecord[] { cardRecord, appRecord});
+
+		try {
+			// see if tag is already NDEF formatted
+			Ndef ndef = Ndef.get(tag);
+			if (ndef != null) 
+			{
+				ndef.connect();
+
+				if (!ndef.isWritable()) 
+				{
+					System.out.println("Read-only tag.");
+					return false;
+				}
+
+				// work out how much space we need for the data
+				int size = message.toByteArray().length;
+				if (ndef.getMaxSize() < size) 
+				{
+					System.out.println("Tag doesn't have enough free space.");
+					return false;
+				}
+
+				ndef.writeNdefMessage(message);
+				System.out.println("Tag written successfully.");
+				return true;
+			} 
+			else 
+			{
+				// attempt to format tag
+				NdefFormatable format = NdefFormatable.get(tag);
+				if (format != null) 
+				{
+					try 
+					{
+						format.connect();
+						format.format(message);
+						System.out.println("Tag written successfully!");
+						return true;
+					} catch (IOException e) {
+						System.out.println("Unable to format tag to NDEF.");
+						return false;
+					}
+				} 
+				else 
+				{
+					System.out.println("Tag doesn't appear to support NDEF format.");
+					return false;
+				}
+			}
+		} catch (Exception e) {
+			System.out.println("Failed to write tag");
+		}
+		return false;
+	}
+
+	private void enableWriteMode() 
+	{
+		mInWriteMode = true;
+		PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, new Intent(this, 
+				getClass()).addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP), 0);
+		IntentFilter tagDetected = new IntentFilter(NfcAdapter.ACTION_TAG_DISCOVERED);
+		IntentFilter[] filters = new IntentFilter[] { tagDetected };
+		mAdapter.enableForegroundDispatch(this, pendingIntent, filters, null);
+	}
+	public void onResume()
+	{
+
+	}
+}

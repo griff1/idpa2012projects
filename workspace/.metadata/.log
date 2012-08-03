@@ -1,0 +1,262 @@
+!SESSION 2012-08-02 16:03:51.381 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_03
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file C:\Users\Student\Desktop\Griff\workspace\.metadata\.bak_0.log
+Created Time: 2012-08-02 17:45:47.323
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 17:45:47.324
+!MESSAGE fileChanged: failed to find manifest package for project Griff
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 17:49:19.685
+!MESSAGE Failed to add marker 'com.android.ide.eclipse.adt.lintProblem' to '/Player/AndroidManifest.xml'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 11647 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:57)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:237)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:223)
+	at com.android.ide.eclipse.adt.internal.project.BaseProjectHelper.markResource(BaseProjectHelper.java:146)
+	at com.android.ide.eclipse.adt.internal.lint.EclipseLintClient.report(EclipseLintClient.java:231)
+	at com.android.tools.lint.client.api.Lint$LintClientWrapper.report(Lint.java:651)
+	at com.android.tools.lint.checks.ManifestOrderDetector.visitElement(ManifestOrderDetector.java:107)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:165)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitFile(XmlVisitor.java:146)
+	at com.android.tools.lint.client.api.Lint.runFileDetectors(Lint.java:347)
+	at com.android.tools.lint.client.api.Lint.checkProject(Lint.java:310)
+	at com.android.tools.lint.client.api.Lint.analyze(Lint.java:136)
+	at com.android.ide.eclipse.adt.internal.lint.LintRunner$CheckFileJob.run(LintRunner.java:211)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2012-08-02 17:49:19.685
+!MESSAGE Marker id 11647 not found.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 17:50:21.312
+!MESSAGE fileChanged: failed to find manifest package for project Griff
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 17:50:46.113
+!MESSAGE fileChanged: failed to find manifest package for project Griff
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 17:50:48.069
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 11670 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:57)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:237)
+	at com.android.ide.eclipse.adt.internal.lint.EclipseLintClient.report(EclipseLintClient.java:240)
+	at com.android.tools.lint.client.api.Lint$LintClientWrapper.report(Lint.java:651)
+	at com.android.tools.lint.checks.ManifestOrderDetector.visitElement(ManifestOrderDetector.java:107)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:165)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitFile(XmlVisitor.java:146)
+	at com.android.tools.lint.client.api.Lint.runFileDetectors(Lint.java:347)
+	at com.android.tools.lint.client.api.Lint.checkProject(Lint.java:310)
+	at com.android.tools.lint.client.api.Lint.analyze(Lint.java:136)
+	at com.android.ide.eclipse.adt.internal.lint.LintRunner$CheckFileJob.run(LintRunner.java:211)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2012-08-02 17:50:48.069
+!MESSAGE Marker id 11670 not found.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 17:52:22.020
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 11674 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:57)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:237)
+	at com.android.ide.eclipse.adt.internal.lint.EclipseLintClient.report(EclipseLintClient.java:240)
+	at com.android.tools.lint.client.api.Lint$LintClientWrapper.report(Lint.java:651)
+	at com.android.tools.lint.checks.ManifestOrderDetector.visitElement(ManifestOrderDetector.java:107)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:165)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitFile(XmlVisitor.java:146)
+	at com.android.tools.lint.client.api.Lint.runFileDetectors(Lint.java:347)
+	at com.android.tools.lint.client.api.Lint.checkProject(Lint.java:310)
+	at com.android.tools.lint.client.api.Lint.analyze(Lint.java:136)
+	at com.android.ide.eclipse.adt.internal.lint.LintRunner$CheckFileJob.run(LintRunner.java:211)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2012-08-02 17:52:22.020
+!MESSAGE Marker id 11674 not found.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 17:53:41.528
+!MESSAGE Failed to add marker 'com.android.ide.eclipse.adt.lintProblem' to '/Player/AndroidManifest.xml'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 11691 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:57)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:237)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:223)
+	at com.android.ide.eclipse.adt.internal.project.BaseProjectHelper.markResource(BaseProjectHelper.java:150)
+	at com.android.ide.eclipse.adt.internal.lint.EclipseLintClient.report(EclipseLintClient.java:231)
+	at com.android.tools.lint.client.api.Lint$LintClientWrapper.report(Lint.java:651)
+	at com.android.tools.lint.checks.ManifestOrderDetector.visitElement(ManifestOrderDetector.java:107)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:165)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitFile(XmlVisitor.java:146)
+	at com.android.tools.lint.client.api.Lint.runFileDetectors(Lint.java:347)
+	at com.android.tools.lint.client.api.Lint.checkProject(Lint.java:310)
+	at com.android.tools.lint.client.api.Lint.analyze(Lint.java:136)
+	at com.android.ide.eclipse.adt.internal.lint.LintRunner$CheckFileJob.run(LintRunner.java:211)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2012-08-02 17:53:41.528
+!MESSAGE Marker id 11691 not found.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 17:53:41.530
+!MESSAGE Failed to add marker 'com.android.ide.eclipse.adt.lintProblem' to '/Player/AndroidManifest.xml'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 11692 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:57)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:237)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:223)
+	at com.android.ide.eclipse.adt.internal.project.BaseProjectHelper.markResource(BaseProjectHelper.java:150)
+	at com.android.ide.eclipse.adt.internal.lint.EclipseLintClient.report(EclipseLintClient.java:231)
+	at com.android.tools.lint.client.api.Lint$LintClientWrapper.report(Lint.java:651)
+	at com.android.tools.lint.checks.ManifestOrderDetector.visitElement(ManifestOrderDetector.java:107)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:165)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitFile(XmlVisitor.java:146)
+	at com.android.tools.lint.client.api.Lint.runFileDetectors(Lint.java:347)
+	at com.android.tools.lint.client.api.Lint.checkProject(Lint.java:310)
+	at com.android.tools.lint.client.api.Lint.analyze(Lint.java:136)
+	at com.android.ide.eclipse.adt.internal.lint.LintRunner$CheckFileJob.run(LintRunner.java:211)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2012-08-02 17:53:41.530
+!MESSAGE Marker id 11692 not found.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 17:58:32.474
+!MESSAGE Failed to add marker 'com.android.ide.eclipse.adt.lintProblem' to '/Player/AndroidManifest.xml'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 11723 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:57)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:237)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:223)
+	at com.android.ide.eclipse.adt.internal.project.BaseProjectHelper.markResource(BaseProjectHelper.java:150)
+	at com.android.ide.eclipse.adt.internal.lint.EclipseLintClient.report(EclipseLintClient.java:231)
+	at com.android.tools.lint.client.api.Lint$LintClientWrapper.report(Lint.java:651)
+	at com.android.tools.lint.checks.ManifestOrderDetector.visitElement(ManifestOrderDetector.java:107)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:165)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitFile(XmlVisitor.java:146)
+	at com.android.tools.lint.client.api.Lint.runFileDetectors(Lint.java:347)
+	at com.android.tools.lint.client.api.Lint.checkProject(Lint.java:310)
+	at com.android.tools.lint.client.api.Lint.analyze(Lint.java:136)
+	at com.android.ide.eclipse.adt.internal.lint.LintRunner$CheckFileJob.run(LintRunner.java:211)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2012-08-02 17:58:32.475
+!MESSAGE Marker id 11723 not found.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 18:03:21.017
+!MESSAGE Failed to add marker 'com.android.ide.eclipse.adt.lintProblem' to '/Player/AndroidManifest.xml'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 11744 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:57)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:237)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:223)
+	at com.android.ide.eclipse.adt.internal.project.BaseProjectHelper.markResource(BaseProjectHelper.java:150)
+	at com.android.ide.eclipse.adt.internal.lint.EclipseLintClient.report(EclipseLintClient.java:231)
+	at com.android.tools.lint.client.api.Lint$LintClientWrapper.report(Lint.java:651)
+	at com.android.tools.lint.checks.ManifestOrderDetector.visitElement(ManifestOrderDetector.java:107)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:165)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitFile(XmlVisitor.java:146)
+	at com.android.tools.lint.client.api.Lint.runFileDetectors(Lint.java:347)
+	at com.android.tools.lint.client.api.Lint.checkProject(Lint.java:310)
+	at com.android.tools.lint.client.api.Lint.analyze(Lint.java:136)
+	at com.android.ide.eclipse.adt.internal.lint.LintRunner$CheckFileJob.run(LintRunner.java:211)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2012-08-02 18:03:21.017
+!MESSAGE Marker id 11744 not found.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 18:05:25.239
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 11759 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:57)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:237)
+	at com.android.ide.eclipse.adt.internal.lint.EclipseLintClient.report(EclipseLintClient.java:240)
+	at com.android.tools.lint.client.api.Lint$LintClientWrapper.report(Lint.java:651)
+	at com.android.tools.lint.checks.ManifestOrderDetector.visitElement(ManifestOrderDetector.java:107)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:165)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitFile(XmlVisitor.java:146)
+	at com.android.tools.lint.client.api.Lint.runFileDetectors(Lint.java:347)
+	at com.android.tools.lint.client.api.Lint.checkProject(Lint.java:310)
+	at com.android.tools.lint.client.api.Lint.analyze(Lint.java:136)
+	at com.android.ide.eclipse.adt.internal.lint.LintRunner$CheckFileJob.run(LintRunner.java:211)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2012-08-02 18:05:25.239
+!MESSAGE Marker id 11759 not found.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 18:08:56.226
+!MESSAGE Failed to add marker 'com.android.ide.eclipse.adt.lintProblem' to '/Player/AndroidManifest.xml'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 11783 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:57)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:237)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:223)
+	at com.android.ide.eclipse.adt.internal.project.BaseProjectHelper.markResource(BaseProjectHelper.java:150)
+	at com.android.ide.eclipse.adt.internal.lint.EclipseLintClient.report(EclipseLintClient.java:231)
+	at com.android.tools.lint.client.api.Lint$LintClientWrapper.report(Lint.java:651)
+	at com.android.tools.lint.checks.ManifestOrderDetector.visitElement(ManifestOrderDetector.java:107)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:165)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitFile(XmlVisitor.java:146)
+	at com.android.tools.lint.client.api.Lint.runFileDetectors(Lint.java:347)
+	at com.android.tools.lint.client.api.Lint.checkProject(Lint.java:310)
+	at com.android.tools.lint.client.api.Lint.analyze(Lint.java:136)
+	at com.android.ide.eclipse.adt.internal.lint.LintRunner$CheckFileJob.run(LintRunner.java:211)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2012-08-02 18:08:56.226
+!MESSAGE Marker id 11783 not found.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 18:08:56.234
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 11784 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:57)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:237)
+	at com.android.ide.eclipse.adt.internal.lint.EclipseLintClient.report(EclipseLintClient.java:240)
+	at com.android.tools.lint.client.api.Lint$LintClientWrapper.report(Lint.java:651)
+	at com.android.tools.lint.checks.ManifestOrderDetector.visitElement(ManifestOrderDetector.java:107)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:165)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitFile(XmlVisitor.java:146)
+	at com.android.tools.lint.client.api.Lint.runFileDetectors(Lint.java:347)
+	at com.android.tools.lint.client.api.Lint.checkProject(Lint.java:310)
+	at com.android.tools.lint.client.api.Lint.analyze(Lint.java:136)
+	at com.android.ide.eclipse.adt.internal.lint.LintRunner$CheckFileJob.run(LintRunner.java:211)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2012-08-02 18:08:56.234
+!MESSAGE Marker id 11784 not found.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-08-02 18:10:20.542
+!MESSAGE 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 11799 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:57)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:237)
+	at com.android.ide.eclipse.adt.internal.lint.EclipseLintClient.report(EclipseLintClient.java:240)
+	at com.android.tools.lint.client.api.Lint$LintClientWrapper.report(Lint.java:651)
+	at com.android.tools.lint.checks.ManifestOrderDetector.visitElement(ManifestOrderDetector.java:107)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:165)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitElement(XmlVisitor.java:200)
+	at com.android.tools.lint.client.api.XmlVisitor.visitFile(XmlVisitor.java:146)
+	at com.android.tools.lint.client.api.Lint.runFileDetectors(Lint.java:347)
+	at com.android.tools.lint.client.api.Lint.checkProject(Lint.java:310)
+	at com.android.tools.lint.client.api.Lint.analyze(Lint.java:136)
+	at com.android.ide.eclipse.adt.internal.lint.LintRunner$CheckFileJob.run(LintRunner.java:211)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2012-08-02 18:10:20.542
+!MESSAGE Marker id 11799 not found.

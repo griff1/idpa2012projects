@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FormActivity!</string>
+    <string name="app_name">Form</string>
+    <string name="Name"></string>
+    <string name="Name1">Name</string>
+    <string name="Course">Course</string>
+    <string name="BirthDate">BirthDate</string>
+    <string name="Birthdate">Birth Date</string>
+    <string name="HomeTown">Home Town</string>
+    <string name="Submit">Submit</string>
+
+</resources>

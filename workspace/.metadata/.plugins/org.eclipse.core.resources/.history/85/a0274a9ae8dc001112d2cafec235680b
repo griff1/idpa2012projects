@@ -1,0 +1,55 @@
+package com.sample.playlist;
+
+import java.io.File;
+import java.util.ArrayList;
+
+import com.sample.blank.R;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.LinearLayout;
+import android.widget.Toast;
+
+public class RemoveSong extends Activity implements OnClickListener
+{
+    /** Called when the activity is first created. */
+	ArrayList<String> songs = new ArrayList<String>();
+	ArrayList<Button> buttons = new ArrayList<Button>();
+    @Override
+    public void onCreate(Bundle savedInstanceState) 
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main3);
+        
+        Bundle bundle = getIntent().getExtras();
+        songs = bundle.getStringArrayList("songs");
+        
+        addButtons();
+    }
+    public void addButtons()
+    {
+    	buttons = new ArrayList<Button>();
+        for(int i = 0; i < songs.size(); i++)
+        {
+        	Button b = new Button(this);
+        	b.setId(i);
+        	b.setText(songs.get(i));
+        	b.setWidth(250);
+        	b.setHeight(100);
+        	b.setOnClickListener(this);
+        	LinearLayout l = (LinearLayout) findViewById(R.id.linearLayout1);
+        	l.addView(b);
+        	buttons.add(b);
+        }
+    }
+	public void onClick(View v) 
+	{
+		Intent intent = new Intent(this, MainActivity.class);
+		intent.putExtra("index", v.getId());
+		this.startActivity(intent);
+	}
+}

@@ -1,0 +1,47 @@
+package com.sample.getfilenames;
+
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+public class GetFileNamesActivity extends Activity {
+
+    public void onCreate(Bundle savedInstanceState) 
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+        
+        File file = new File("/storage/sdcard0/Music");
+        String names[] = file.list();
+        System.out.println(Arrays.toString(names));
+        
+        String mainXMLFile = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n" +
+        		"<LinearLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"\n" +
+        		"android:layout_width=\"fill_parent\"\n" +
+        		"android:layout_height=\"fill_parent\"\n" +
+        		"android:orientation=\"vertical\" >";
+        		
+        for(int i = 0; i < names.length; i++)
+        {
+            mainXMLFile += "<Button\n" + 
+            "android:id=\"@+id/button" + (i+1) + "\n" + 
+            "android:layout_width=\"match_parent\"" + 
+            "android:layout_height=\"60dp\"" +
+            "android:text=\"" + names[i] +  "\" />";
+        }
+        
+        mainXMLFile += "</LinearLayout>";
+        
+        File main = new File("C:\\Users\\Administrator\\workspace\\GetFileNames\\res\\layout\\main.xml");
+        try {
+			BufferedWriter writeMe = new BufferedWriter(new FileWriter(main));
+			writeMe.write(mainXMLFile);
+		} catch (IOException e) {}
+    }
+}

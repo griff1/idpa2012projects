@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/layout2"
+        android:layout_width="match_parent"
+        android:layout_height="380dp"
+        android:layout_weight="1.06" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView01"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/imageView1"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView02"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView01"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView03"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView02"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView04"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView03"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView05"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView04"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView07"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView05"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView08"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView07"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView06"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView08"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView09"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView06"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView10"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView09"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView11"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView10"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView20"
+            android:layout_width="32dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/ImageView01"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView19"
+            android:layout_width="32dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/ImageView20"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView18"
+            android:layout_width="32dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/ImageView19"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView17"
+            android:layout_width="32dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/ImageView18"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView16"
+            android:layout_width="32dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/ImageView17"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView15"
+            android:layout_width="32dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/ImageView16"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView12"
+            android:layout_width="32dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/ImageView15"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView14"
+            android:layout_width="32dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/ImageView12"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView13"
+            android:layout_width="32dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/ImageView14"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView21"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignBottom="@+id/ImageView01"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView22"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView21"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView23"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignBottom="@+id/ImageView03"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView24"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView23"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView25"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView24"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView26"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignBottom="@+id/ImageView07"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView27"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView26"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView28"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView27"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView29"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView28"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView30"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView29"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView31"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView30"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView32"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView31"
+            android:layout_alignParentRight="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+        <ImageView
+            android:id="@+id/ImageView33"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ImageView11"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="1.06"
+            android:src="@drawable/sides2" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/layout3"
+        android:layout_width="match_parent"
+        android:layout_height="82dp" >
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="80dp"
+            android:layout_height="65dp"
+            android:text="Turn" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="80dp"
+            android:layout_height="65dp"
+            android:text="Speed up" />
+        
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="75dp"
+            android:layout_height="65dp"
+            android:text="&lt;-" />
+<Button
+            android:id="@+id/button4"
+            android:layout_width="75dp"
+            android:layout_height="65dp"
+            android:text="->" />
+
+    </LinearLayout>
+
+</LinearLayout>

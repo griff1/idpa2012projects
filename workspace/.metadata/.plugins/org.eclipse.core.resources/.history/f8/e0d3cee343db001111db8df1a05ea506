@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BlankActivity!</string>
+    <string name="app_name">Blank</string>
+    <string name="CurrentSong">Current Song</string>
+    <string name="CurrentSong2">Current Song: None</string>
+    <string name="Tap">Tap here to choose a song to share.</string>
+
+</resources>

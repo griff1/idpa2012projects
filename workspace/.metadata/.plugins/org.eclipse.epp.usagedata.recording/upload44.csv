@@ -1,0 +1,301 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.pde.api.tools.ui,1.0.301.v20110803_r371,"org.eclipse.pde.api.tools.ui",1343938372453
+started,bundle,org.eclipse.jpt.jaxb.core,1.0.2.v201111103010,"org.eclipse.jpt.jaxb.core",1343938372595
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343938373597
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343938373757
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343938373925
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343938389980
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1343938392295
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343938403575
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343938404443
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343938411216
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343938411817
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343938416386
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343938416546
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343938416670
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343938416918
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343938422782
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343938423411
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.toggleOverwrite",1343938426116
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.toggleOverwrite",1343938427360
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343938484469
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343938490360
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343938491160
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343938511448
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343938512377
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343938691476
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1343938694554
+started,bundle,org.eclipse.mylyn.resources.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.resources.ui",1343938695538
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1343938695756
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938698334
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1343938700757
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110928-1453,"org.eclipse.jdt.junit.core",1343938700778
+started,bundle,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.ui",1343938700814
+started,bundle,org.eclipse.pde.core,3.7.1.v20120103_r372,"org.eclipse.pde.core",1343938700848
+started,bundle,org.eclipse.ant.ui,3.5.101.v20120110-1739,"org.eclipse.ant.ui",1343938700868
+started,bundle,org.eclipse.wst.jsdt.debug.rhino.ui,1.0.1.v201201112313,"org.eclipse.wst.jsdt.debug.rhino.ui",1343938700888
+started,bundle,org.eclipse.jst.jsp.core,1.2.402.v201112071853,"org.eclipse.jst.jsp.core",1343938700969
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938701341
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.rename.element",1343938701346
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343938701905
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343938706619
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343938707262
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938707586
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938708673
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343938708679
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938710845
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938712891
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1343938712900
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1343938712900
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938715508
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938717921
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.rename.element",1343938717929
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343938718459
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938719826
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1343938723760
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938726181
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938730798
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938730877
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938730955
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938735475
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1343938736655
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1343938738962
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343938739599
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938740073
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343938741408
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938749518
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343938754799
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343938756924
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938780247
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938789514
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343938804630
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938805208
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.toggleOverwrite",1343938819854
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.toggleOverwrite",1343938820046
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938880564
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938883294
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343938894574
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938897301
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343938900765
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938926825
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938930877
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343938965082
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938966498
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343938967120
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343938971753
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.garbagecollector",1343938991488
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939010988
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939074459
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939075930
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343939078969
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343939079034
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939088459
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343939093453
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343939094046
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939098313
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343939098827
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939105687
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343939117414
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.showInformation",1343939117429
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343939120554
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939123401
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939129686
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343939130796
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343939131380
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.indent",1343939162204
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939192893
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343939193216
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343939227627
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939260681
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939268162
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939287930
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939297480
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939316312
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939319429
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343939338820
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343939345719
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343939345869
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939355010
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939356874
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343939358846
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343939359739
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939368325
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939369438
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343939369641
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939370351
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939372989
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343939378155
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1343939381238
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343939384635
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343939390885
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.newWizard",1343939390895
+error,log,,,"Current file is not a match for the given config.",1343939390968
+error,log,,,"Current file is not a match for the given config.",1343939390969
+error,log,,,"Current file is not a match for the given config.",1343939390969
+error,log,,,"Current file is not a match for the given config.",1343939390969
+error,log,,,"Current file is not a match for the given config.",1343939390969
+error,log,,,"Current file is not a match for the given config.",1343939390970
+error,log,,,"Current file is not a match for the given config.",1343939390970
+error,log,,,"Current file is not a match for the given config.",1343939390970
+error,log,,,"Current file is not a match for the given config.",1343939390970
+error,log,,,"Current file is not a match for the given config.",1343939390970
+error,log,,,"Current file is not a match for the given config.",1343939390971
+error,log,,,"Current file is not a match for the given config.",1343939390971
+error,log,,,"Current file is not a match for the given config.",1343939390971
+error,log,,,"Current file is not a match for the given config.",1343939390971
+error,log,,,"Current file is not a match for the given config.",1343939390971
+error,log,,,"Current file is not a match for the given config.",1343939390972
+error,log,,,"Current file is not a match for the given config.",1343939390972
+error,log,,,"Current file is not a match for the given config.",1343939390972
+error,log,,,"Current file is not a match for the given config.",1343939390972
+error,log,,,"Current file is not a match for the given config.",1343939390973
+error,log,,,"Current file is not a match for the given config.",1343939390973
+error,log,,,"Current file is not a match for the given config.",1343939390973
+error,log,,,"Current file is not a match for the given config.",1343939390973
+error,log,,,"Current file is not a match for the given config.",1343939390973
+error,log,,,"Current file is not a match for the given config.",1343939390974
+error,log,,,"Current file is not a match for the given config.",1343939390974
+error,log,,,"Current file is not a match for the given config.",1343939390974
+error,log,,,"Current file is not a match for the given config.",1343939390974
+error,log,,,"Current file is not a match for the given config.",1343939390975
+error,log,,,"Current file is not a match for the given config.",1343939390975
+error,log,,,"Current file is not a match for the given config.",1343939390975
+error,log,,,"Current file is not a match for the given config.",1343939390975
+error,log,,,"Current file is not a match for the given config.",1343939390975
+error,log,,,"Current file is not a match for the given config.",1343939390976
+error,log,,,"Current file is not a match for the given config.",1343939390976
+error,log,,,"Current file is not a match for the given config.",1343939390976
+error,log,,,"Current file is not a match for the given config.",1343939390976
+error,log,,,"Current file is not a match for the given config.",1343939390977
+error,log,,,"Current file is not a match for the given config.",1343939390977
+error,log,,,"Current file is not a match for the given config.",1343939390977
+error,log,,,"Current file is not a match for the given config.",1343939390977
+error,log,,,"Current file is not a match for the given config.",1343939390977
+error,log,,,"Current file is not a match for the given config.",1343939390978
+error,log,,,"Current file is not a match for the given config.",1343939390978
+error,log,,,"Current file is not a match for the given config.",1343939390978
+error,log,,,"Current file is not a match for the given config.",1343939390978
+error,log,,,"Current file is not a match for the given config.",1343939390979
+error,log,,,"Current file is not a match for the given config.",1343939390979
+error,log,,,"Current file is not a match for the given config.",1343939390979
+error,log,,,"Current file is not a match for the given config.",1343939390979
+error,log,,,"Current file is not a match for the given config.",1343939390980
+error,log,,,"Current file is not a match for the given config.",1343939390980
+error,log,,,"Current file is not a match for the given config.",1343939390980
+error,log,,,"Current file is not a match for the given config.",1343939390980
+error,log,,,"Current file is not a match for the given config.",1343939390981
+error,log,,,"Current file is not a match for the given config.",1343939390981
+error,log,,,"Current file is not a match for the given config.",1343939390981
+error,log,,,"Current file is not a match for the given config.",1343939390981
+error,log,,,"Current file is not a match for the given config.",1343939390981
+error,log,,,"Current file is not a match for the given config.",1343939390982
+error,log,,,"Current file is not a match for the given config.",1343939390982
+error,log,,,"Current file is not a match for the given config.",1343939390982
+error,log,,,"Current file is not a match for the given config.",1343939390982
+error,log,,,"Current file is not a match for the given config.",1343939390983
+error,log,,,"Current file is not a match for the given config.",1343939390983
+error,log,,,"Current file is not a match for the given config.",1343939390983
+error,log,,,"Current file is not a match for the given config.",1343939390983
+error,log,,,"Current file is not a match for the given config.",1343939390984
+error,log,,,"Current file is not a match for the given config.",1343939390984
+error,log,,,"Current file is not a match for the given config.",1343939390984
+error,log,,,"Current file is not a match for the given config.",1343939390984
+error,log,,,"Current file is not a match for the given config.",1343939390984
+error,log,,,"Current file is not a match for the given config.",1343939390985
+error,log,,,"Current file is not a match for the given config.",1343939390985
+error,log,,,"Current file is not a match for the given config.",1343939390985
+error,log,,,"Current file is not a match for the given config.",1343939390985
+error,log,,,"Current file is not a match for the given config.",1343939390986
+error,log,,,"Current file is not a match for the given config.",1343939390986
+error,log,,,"Current file is not a match for the given config.",1343939390986
+error,log,,,"Current file is not a match for the given config.",1343939390986
+error,log,,,"Current file is not a match for the given config.",1343939390987
+error,log,,,"Current file is not a match for the given config.",1343939390987
+error,log,,,"Current file is not a match for the given config.",1343939390987
+error,log,,,"Current file is not a match for the given config.",1343939390987
+error,log,,,"Current file is not a match for the given config.",1343939390987
+error,log,,,"Current file is not a match for the given config.",1343939390988
+error,log,,,"Current file is not a match for the given config.",1343939390988
+error,log,,,"Current file is not a match for the given config.",1343939390988
+error,log,,,"Current file is not a match for the given config.",1343939390988
+error,log,,,"Current file is not a match for the given config.",1343939390988
+error,log,,,"Current file is not a match for the given config.",1343939390989
+error,log,,,"Current file is not a match for the given config.",1343939390989
+error,log,,,"Current file is not a match for the given config.",1343939390989
+error,log,,,"Current file is not a match for the given config.",1343939390989
+error,log,,,"Current file is not a match for the given config.",1343939390990
+error,log,,,"Current file is not a match for the given config.",1343939390990
+error,log,,,"Current file is not a match for the given config.",1343939390990
+error,log,,,"Current file is not a match for the given config.",1343939390990
+error,log,,,"Current file is not a match for the given config.",1343939390991
+error,log,,,"Current file is not a match for the given config.",1343939390991
+error,log,,,"Current file is not a match for the given config.",1343939390991
+error,log,,,"Current file is not a match for the given config.",1343939390991
+error,log,,,"Current file is not a match for the given config.",1343939390991
+error,log,,,"Current file is not a match for the given config.",1343939390992
+error,log,,,"Current file is not a match for the given config.",1343939390992
+error,log,,,"Current file is not a match for the given config.",1343939390992
+error,log,,,"Current file is not a match for the given config.",1343939390992
+error,log,,,"Current file is not a match for the given config.",1343939390992
+error,log,,,"Current file is not a match for the given config.",1343939390993
+error,log,,,"Current file is not a match for the given config.",1343939390993
+error,log,,,"Current file is not a match for the given config.",1343939390993
+error,log,,,"Current file is not a match for the given config.",1343939390993
+error,log,,,"Current file is not a match for the given config.",1343939390993
+error,log,,,"Current file is not a match for the given config.",1343939390994
+error,log,,,"Current file is not a match for the given config.",1343939390994
+error,log,,,"Current file is not a match for the given config.",1343939390994
+error,log,,,"Current file is not a match for the given config.",1343939390994
+error,log,,,"Current file is not a match for the given config.",1343939390994
+error,log,,,"Current file is not a match for the given config.",1343939390994
+error,log,,,"Current file is not a match for the given config.",1343939390995
+error,log,,,"Current file is not a match for the given config.",1343939390995
+error,log,,,"Current file is not a match for the given config.",1343939390995
+error,log,,,"Current file is not a match for the given config.",1343939390995
+error,log,,,"Current file is not a match for the given config.",1343939390995
+error,log,,,"Current file is not a match for the given config.",1343939390996
+error,log,,,"Current file is not a match for the given config.",1343939390996
+error,log,,,"Current file is not a match for the given config.",1343939390996
+error,log,,,"Current file is not a match for the given config.",1343939390996
+error,log,,,"Current file is not a match for the given config.",1343939390996
+error,log,,,"Current file is not a match for the given config.",1343939390997
+error,log,,,"Current file is not a match for the given config.",1343939390997
+error,log,,,"Current file is not a match for the given config.",1343939390997
+error,log,,,"Current file is not a match for the given config.",1343939390997
+error,log,,,"Current file is not a match for the given config.",1343939390997
+error,log,,,"Current file is not a match for the given config.",1343939390998
+error,log,,,"Current file is not a match for the given config.",1343939390998
+error,log,,,"Current file is not a match for the given config.",1343939390998
+error,log,,,"Current file is not a match for the given config.",1343939390998
+error,log,,,"Current file is not a match for the given config.",1343939390998
+error,log,,,"Current file is not a match for the given config.",1343939390999
+error,log,,,"Current file is not a match for the given config.",1343939390999
+error,log,,,"Current file is not a match for the given config.",1343939390999
+error,log,,,"Current file is not a match for the given config.",1343939390999
+error,log,,,"Current file is not a match for the given config.",1343939390999
+error,log,,,"Current file is not a match for the given config.",1343939391000
+error,log,,,"Current file is not a match for the given config.",1343939391000
+error,log,,,"Current file is not a match for the given config.",1343939391000
+error,log,,,"Current file is not a match for the given config.",1343939391000
+error,log,,,"Current file is not a match for the given config.",1343939391000
+error,log,,,"Current file is not a match for the given config.",1343939391001
+error,log,,,"Current file is not a match for the given config.",1343939391001
+error,log,,,"Current file is not a match for the given config.",1343939391001
+error,log,,,"Current file is not a match for the given config.",1343939391001
+error,log,,,"Current file is not a match for the given config.",1343939391001
+error,log,,,"Current file is not a match for the given config.",1343939391002
+error,log,,,"Current file is not a match for the given config.",1343939391002
+error,log,,,"Current file is not a match for the given config.",1343939391002
+error,log,,,"Current file is not a match for the given config.",1343939391002
+error,log,,,"Current file is not a match for the given config.",1343939391002
+error,log,,,"Current file is not a match for the given config.",1343939391003
+error,log,,,"Current file is not a match for the given config.",1343939391003
+error,log,,,"Current file is not a match for the given config.",1343939391003
+error,log,,,"Current file is not a match for the given config.",1343939391003
+error,log,,,"Current file is not a match for the given config.",1343939391003
+error,log,,,"Current file is not a match for the given config.",1343939391003
+error,log,,,"Current file is not a match for the given config.",1343939391004
+error,log,,,"Current file is not a match for the given config.",1343939391004
+error,log,,,"Current file is not a match for the given config.",1343939391004
+error,log,,,"Current file is not a match for the given config.",1343939391004
+error,log,,,"Current file is not a match for the given config.",1343939391004

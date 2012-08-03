@@ -1,0 +1,25 @@
+package com.sample.services;
+
+import android.app.Activity;
+import android.app.Service;
+import android.content.ComponentName;
+import android.os.Bundle;
+import android.os.IBinder;
+
+public class MainActivity extends Activity
+{
+	Service appService;
+	public void onCreate(Bundle savedInstanceState)
+	{
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+	}
+	public void onServiceConnected(ComponentName ServiceTest, IBinder rawBinder)
+	{
+		appService = ((ServiceTest.LocalBinder)rawBinder).getService();
+	}
+	public void onServiceDisconnected(ComponentName ServiceTest)
+	{
+		appService = null;
+	}
+}

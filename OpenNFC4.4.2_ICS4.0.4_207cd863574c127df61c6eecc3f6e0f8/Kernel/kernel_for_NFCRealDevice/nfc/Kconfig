@@ -1,0 +1,33 @@
+#
+# Near Field Communication (NFC) devices
+#
+
+menu "Near Field Communication (NFC) devices"
+
+config NFC_DEVICES
+	bool "Near Field Communication (NFC) devices"
+	default n
+	help
+	  You'll have to say Y if your computer contains an NFC device that
+	  you want to use under Linux.
+	  
+	  You can say N here if you don't have any Near Field Communication
+	  devices connected to your computer.
+
+if NFC_DEVICES
+
+choice
+	prompt "Choose NFC implementation"
+	default MICROREAD
+	help
+	  Choose the NFC implementation for your device
+
+	config MICROREAD
+		bool "MICROREAD driver"
+		help
+		  Inside Secure Open NFC
+endchoice
+
+endif # NFC_DEVICES
+
+endmenu

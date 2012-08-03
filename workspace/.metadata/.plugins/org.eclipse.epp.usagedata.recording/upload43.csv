@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.epp.mpc.ui,1.1.1.I20110907-0947,"org.eclipse.epp.mpc.ui",1343937840983
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201106061540,"org.eclipse.epp.usagedata.gathering",1343937840984
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201106061540,"org.eclipse.epp.usagedata.recording",1343937840987
+started,bundle,org.eclipse.equinox.app,1.3.100.v20110321,"org.eclipse.equinox.app",1343937840988
+started,bundle,org.eclipse.equinox.common,3.6.0.v20110523,"org.eclipse.equinox.common",1343937840989
+started,bundle,org.eclipse.equinox.ds,1.3.1.R37x_v20110701,"org.eclipse.equinox.ds",1343937840989
+started,bundle,org.eclipse.equinox.event,1.2.100.v20110502,"org.eclipse.equinox.event",1343937840990
+started,bundle,org.eclipse.equinox.p2.core,2.1.1.v20120113-1346,"org.eclipse.equinox.p2.core",1343937840991
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.300.v20110815-1419,"org.eclipse.equinox.p2.directorywatcher",1343937840991
+started,bundle,org.eclipse.equinox.p2.engine,2.1.1.R37x_v20111003,"org.eclipse.equinox.p2.engine",1343937840992
+started,bundle,org.eclipse.equinox.p2.metadata,2.1.0.v20110815-1419,"org.eclipse.equinox.p2.metadata",1343937840992
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.2.0.v20110815-1419,"org.eclipse.equinox.p2.metadata.repository",1343937840993
+started,bundle,org.eclipse.equinox.p2.operations,2.1.1.R37x_v20111111,"org.eclipse.equinox.p2.operations",1343937840993
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.100.v20110815-1419,"org.eclipse.equinox.p2.reconciler.dropins",1343937840994
+started,bundle,org.eclipse.equinox.p2.repository,2.1.1.v20120113-1346,"org.eclipse.equinox.p2.repository",1343937840994
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.100.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk.scheduler",1343937840995
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.200.v20110815-1419,"org.eclipse.equinox.p2.updatechecker",1343937840995
+started,bundle,org.eclipse.equinox.preferences,3.4.2.v20120111-2020,"org.eclipse.equinox.preferences",1343937840996
+started,bundle,org.eclipse.equinox.registry,3.5.101.R37x_v20110810-1611,"org.eclipse.equinox.registry",1343937840997
+started,bundle,org.eclipse.equinox.security,1.1.1.R37x_v20110822-1018,"org.eclipse.equinox.security",1343937840997
+started,bundle,org.eclipse.equinox.util,1.0.300.v20110502,"org.eclipse.equinox.util",1343937840998
+started,bundle,org.eclipse.help,3.5.100.v20110426,"org.eclipse.help",1343937840999
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1343937840999
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1343937841000
+started,bundle,org.eclipse.jdt.core,3.7.3.v20120119-1537,"org.eclipse.jdt.core",1343937841000
+started,bundle,org.eclipse.jdt.core.manipulation,1.4.0.v20110928-1453,"org.eclipse.jdt.core.manipulation",1343937841001
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20111006_r372,"org.eclipse.jdt.debug",1343937841002
+started,bundle,org.eclipse.jdt.launching,3.6.1.v20111006_r372,"org.eclipse.jdt.launching",1343937841004
+started,bundle,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui",1343937841007
+started,bundle,org.eclipse.jem,2.0.501.v201111030500,"org.eclipse.jem",1343937841008
+started,bundle,org.eclipse.jem.util,2.1.100.v201103021400,"org.eclipse.jem.util",1343937841008
+started,bundle,org.eclipse.jem.workbench,2.0.400.v201104251400,"org.eclipse.jem.workbench",1343937841009
+started,bundle,org.eclipse.jface,3.7.0.v20110928-1505,"org.eclipse.jface",1343937841009
+started,bundle,org.eclipse.jpt.common.core,1.0.2.v201111103010,"org.eclipse.jpt.common.core",1343937841010
+started,bundle,org.eclipse.jpt.jpa.core,3.0.2.v201201243020,"org.eclipse.jpt.jpa.core",1343937841011
+started,bundle,org.eclipse.jsch.core,1.1.300.I20110514-0800,"org.eclipse.jsch.core",1343937841012
+started,bundle,org.eclipse.jst.common.frameworks,1.1.501.v201201190400,"org.eclipse.jst.common.frameworks",1343937841012
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.200.v201103170302,"org.eclipse.jst.common.project.facet.core",1343937841013
+started,bundle,org.eclipse.jst.j2ee,1.1.503.v201202090300,"org.eclipse.jst.j2ee",1343937841014
+started,bundle,org.eclipse.jst.j2ee.core,1.2.102.v201202090300,"org.eclipse.jst.j2ee.core",1343937841014
+started,bundle,org.eclipse.jst.j2ee.navigator.ui,1.1.501.v201107261503,"org.eclipse.jst.j2ee.navigator.ui",1343937841015
+started,bundle,org.eclipse.jst.j2ee.ui,1.1.503.v201201190400,"org.eclipse.jst.j2ee.ui",1343937841016
+started,bundle,org.eclipse.jst.j2ee.webservice,1.1.400.v201004110600,"org.eclipse.jst.j2ee.webservice",1343937841017
+started,bundle,org.eclipse.jst.j2ee.webservice.ui,1.1.500.v201105122000,"org.eclipse.jst.j2ee.webservice.ui",1343937841017
+started,bundle,org.eclipse.jst.jee.ui,1.0.401.v201202011107,"org.eclipse.jst.jee.ui",1343937841018
+started,bundle,org.eclipse.jst.ws.jaxrs.core,1.0.301.v201108240656,"org.eclipse.jst.ws.jaxrs.core",1343937841019
+started,bundle,org.eclipse.jst.ws.jaxws.utils,1.0.100.v201201031437,"org.eclipse.jst.ws.jaxws.utils",1343937841019
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.201.r372_v20111101-0700,"org.eclipse.ltk.core.refactoring",1343937841020
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring",1343937841021
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.6.5.v20120123-0100,"org.eclipse.mylyn.bugzilla.core",1343937841022
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.bugzilla.ui",1343937841022
+started,bundle,org.eclipse.mylyn.commons.identity,0.8.0.v20110608-1400,"org.eclipse.mylyn.commons.identity",1343937841023
+started,bundle,org.eclipse.mylyn.commons.net,3.6.0.v20110608-1400,"org.eclipse.mylyn.commons.net",1343937841023
+started,bundle,org.eclipse.mylyn.commons.ui,3.6.1.v20110720-0100,"org.eclipse.mylyn.commons.ui",1343937841023
+started,bundle,org.eclipse.mylyn.context.core,3.6.1.v20110720-0100,"org.eclipse.mylyn.context.core",1343937841024
+started,bundle,org.eclipse.mylyn.context.ui,3.6.1.v20120112-0100,"org.eclipse.mylyn.context.ui",1343937841025
+started,bundle,org.eclipse.mylyn.monitor.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.monitor.ui",1343937841025
+started,bundle,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui",1343937841026
+started,bundle,org.eclipse.mylyn.team.ui,3.6.1.v20110825-0100,"org.eclipse.mylyn.team.ui",1343937841027
+started,bundle,org.eclipse.search,3.7.0.v20110928-1504,"org.eclipse.search",1343937841028
+started,bundle,org.eclipse.team.core,3.6.0.I20110525-0800,"org.eclipse.team.core",1343937841028
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1343937841029
+started,bundle,org.eclipse.team.cvs.ui,3.3.401.v20120126-1227,"org.eclipse.team.cvs.ui",1343937841030
+started,bundle,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui",1343937841030
+started,bundle,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui",1343937841032
+started,bundle,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console",1343937841033
+started,bundle,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.editors",1343937841033
+started,bundle,org.eclipse.ui.forms,3.5.101.v20111011-1919,"org.eclipse.ui.forms",1343937841034
+started,bundle,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.ide",1343937841035
+started,bundle,org.eclipse.ui.navigator,3.5.101.v20120106-1355,"org.eclipse.ui.navigator",1343937841035
+started,bundle,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.resources",1343937841036
+started,bundle,org.eclipse.ui.net,1.2.100.v20111208-1155,"org.eclipse.ui.net",1343937841036
+started,bundle,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views",1343937841037
+started,bundle,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"org.eclipse.ui.workbench",1343937841038
+started,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.workbench.texteditor",1343937841039
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1343937841039
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1343937841040
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1343937841040
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1343937841043
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1343937841043
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.101.v201107140600,"org.eclipse.wst.common.emfworkbench.integration",1343937841044
+started,bundle,org.eclipse.wst.common.frameworks,1.2.102.v201201190400,"org.eclipse.wst.common.frameworks",1343937841044
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.2.100.v201105122000,"org.eclipse.wst.common.frameworks.ui",1343937841045
+started,bundle,org.eclipse.wst.common.modulecore,1.2.103.v201201190400,"org.eclipse.wst.common.modulecore",1343937841045
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1343937841046
+started,bundle,org.eclipse.wst.common.ui,1.1.500.v200911190730,"org.eclipse.wst.common.ui",1343937841047
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1343937841047
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1343937841055
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1343937841056
+started,bundle,org.eclipse.wst.sse.core,1.1.602.v201112071516,"org.eclipse.wst.sse.core",1343937841056
+started,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1343937841057
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1343937841057
+started,bundle,org.eclipse.wst.web,1.1.501.v201201190400,"org.eclipse.wst.web",1343937841058
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1343937841059
+started,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1343937841060
+started,bundle,org.eclipse.wst.xsl.core,1.1.100.v201102270516,"org.eclipse.wst.xsl.core",1343937841061
+started,bundle,org.eclipse.wst.xsl.exslt.core,1.0.0.v201005240426,"org.eclipse.wst.xsl.exslt.core",1343937841061
+started,bundle,org.eclipse.wst.xsl.ui,1.1.200.v201103082057,"org.eclipse.wst.xsl.ui",1343937841062
+started,bundle,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.adt",1343937841062
+started,bundle,com.android.ide.eclipse.ddms,16.0.1.v201112150204-238534,"com.android.ide.eclipse.ddms",1343937841063
+os,sysinfo,,,"win32",1343937841067
+arch,sysinfo,,,"x86_64",1343937841067
+ws,sysinfo,,,"win32",1343937841067
+locale,sysinfo,,,"en_US",1343937841067
+processors,sysinfo,,,"4",1343937841067
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1343937841067
+java.runtime.version,sysinfo,,,"1.7.0_03-b05",1343937841067
+java.specification.name,sysinfo,,,"Java Platform API Specification",1343937841067
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1343937841067
+java.specification.version,sysinfo,,,"1.7",1343937841067
+java.vendor,sysinfo,,,"Oracle Corporation",1343937841067
+java.version,sysinfo,,,"1.7.0_03",1343937841067
+java.vm.info,sysinfo,,,"mixed mode",1343937841067
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1343937841067
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1343937841067
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1343937841067
+java.vm.specification.version,sysinfo,,,"1.7",1343937841067
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1343937841067
+java.vm.version,sysinfo,,,"22.1-b02",1343937841067
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343937841645
+started,bundle,org.eclipse.jst.servlet.ui,1.1.502.v201202011054,"org.eclipse.jst.servlet.ui",1343937841665
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343937843055
+started,bundle,com.android.ide.eclipse.traceview,16.0.1.v201112150204-238534,"com.android.ide.eclipse.traceview",1343937845615
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343937869606
+started,bundle,org.eclipse.wst.dtd.core,1.1.501.v201107252021,"org.eclipse.wst.dtd.core",1343937874176
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.300.v201104272153,"org.eclipse.wst.jsdt.manipulation",1343937896054
+started,bundle,org.eclipse.wst.jsdt.core,1.1.102.v201111090634,"org.eclipse.wst.jsdt.core",1343937896137
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui",1343937896165
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343937896848
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343937897457
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343937916796
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343937918025
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343937918365
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1343937919404
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343937920693
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343937921760
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1343937948673
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343937970623
+error,log,,,"Unhandled event loop exception",1343937995362
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938002790
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938005843
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938009118
+error,log,,,"Unhandled event loop exception",1343938009245
+error,log,,,"Unhandled event loop exception",1343938009264
+error,log,,,"Unhandled event loop exception",1343938009669
+error,log,,,"Unhandled event loop exception",1343938009673
+error,log,,,"Unhandled event loop exception",1343938009941
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938011045
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938012983
+error,log,,,"Unhandled event loop exception",1343938013119
+error,log,,,"Unhandled event loop exception",1343938013122
+error,log,,,"Unhandled event loop exception",1343938013123
+error,log,,,"Unhandled event loop exception",1343938013149
+error,log,,,"Unhandled event loop exception",1343938014354
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938014397
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343938023838
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938024508
+error,log,,,"Unhandled event loop exception",1343938024658
+error,log,,,"Unhandled event loop exception",1343938024665
+error,log,,,"Unhandled event loop exception",1343938025167
+error,log,,,"Unhandled event loop exception",1343938025171
+error,log,,,"Unhandled event loop exception",1343938025461
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938028600
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938032174
+error,log,,,"Unhandled event loop exception",1343938032309
+error,log,,,"Unhandled event loop exception",1343938032312
+error,log,,,"Unhandled event loop exception",1343938032315
+error,log,,,"Unhandled event loop exception",1343938032324
+error,log,,,"Unhandled event loop exception",1343938032766
+error,log,,,"Unhandled event loop exception",1343938032770
+error,log,,,"Unhandled event loop exception",1343938032992
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938035260
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938039557
+error,log,,,"Unhandled event loop exception",1343938039684
+error,log,,,"Unhandled event loop exception",1343938039687
+error,log,,,"Unhandled event loop exception",1343938039697
+error,log,,,"Unhandled event loop exception",1343938040128
+error,log,,,"Unhandled event loop exception",1343938040133
+error,log,,,"Unhandled event loop exception",1343938040497
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938043102
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938044831
+error,log,,,"Unhandled event loop exception",1343938044961
+error,log,,,"Unhandled event loop exception",1343938044971
+error,log,,,"Unhandled event loop exception",1343938045394
+error,log,,,"Unhandled event loop exception",1343938045398
+error,log,,,"Unhandled event loop exception",1343938045509
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938047885
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938049206
+error,log,,,"Unhandled event loop exception",1343938049328
+error,log,,,"Unhandled event loop exception",1343938049338
+error,log,,,"Unhandled event loop exception",1343938049739
+error,log,,,"Unhandled event loop exception",1343938049744
+error,log,,,"Unhandled event loop exception",1343938050019
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938054981
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938056438
+error,log,,,"Unhandled event loop exception",1343938056557
+error,log,,,"Unhandled event loop exception",1343938056567
+error,log,,,"Unhandled event loop exception",1343938057002
+error,log,,,"Unhandled event loop exception",1343938057008
+error,log,,,"Unhandled event loop exception",1343938057026
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343938064584
+error,log,,,"Unhandled event loop exception",1343938064615
+error,log,,,"Unhandled event loop exception",1343938065064
+error,log,,,"Unhandled event loop exception",1343938065065
+error,log,,,"fileChanged: failed to find manifest package for project Griff",1343938065243
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938066891
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938067225
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110928-1453,"org.eclipse.jdt.junit",1343938067292
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1343938070029
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1343938070030
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1343938070031
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938073587
+error,log,,,"Unhandled event loop exception",1343938080112
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938084658
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938087659
+error,log,,,"Unhandled event loop exception",1343938087682
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938088790
+error,log,,,"Unhandled event loop exception",1343938088837
+started,bundle,org.eclipse.mylyn.java.tasks,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.tasks",1343938095719
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343938095761
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343938096331
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1343938113723
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1343938114539
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343938122369
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938123969
+error,log,,,"Unhandled event loop exception",1343938124076
+error,log,,,"Unhandled event loop exception",1343938124614
+error,log,,,"Unhandled event loop exception",1343938129415
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938131037
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343938150284
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938159008
+error,log,,,"Unhandled event loop exception",1343938159029
+error,log,,,"Unhandled event loop exception",1343938159645
+error,log,,,"Unhandled event loop exception",1343938164768
+error,log,,,"Unhandled event loop exception",1343938164777
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938167587
+closed,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938167588
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1343938171059
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.101.v201201031437,"org.eclipse.jst.ws.jaxws.dom.integration",1343938174825
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1343938174831
+opened,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938179259
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938179336
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938185709
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938198251
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938201678
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938208058
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938219113
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938223974
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938229567
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938229685
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938231686
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938235616
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938240177
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938241431
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938250011
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938257276
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938261776
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938262862
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938270052
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938277548
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938285838
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938287362
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938287704
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1343938295269
+activated,editor,com.android.ide.eclipse.adt,16.0.1.v201112150204-238534,"com.android.ide.eclipse.editors.layout.LayoutEditor",1343938298108
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1343938302815
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.navigate.backwardHistory",1343938342606
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938345765
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1343938345859
+started,bundle,org.eclipse.mylyn.ide.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ui",1343938372387
+started,bundle,org.eclipse.jpt.jaxb.ui,1.1.2.v201201260000,"org.eclipse.jpt.jaxb.ui",1343938372398
+started,bundle,org.eclipse.jpt.jpa.ui,3.0.2.v201201243020,"org.eclipse.jpt.jpa.ui",1343938372404
+started,bundle,org.eclipse.jst.ws.jaxws.ui,1.0.100.v201104032053,"org.eclipse.jst.ws.jaxws.ui",1343938372417
+started,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1343938372426
+started,bundle,org.eclipse.pde.api.tools,1.0.301.v20111129-2053,"org.eclipse.pde.api.tools",1343938372450

@@ -1,0 +1,58 @@
+package com.sample.blank;
+
+import java.io.File;
+import java.util.ArrayList;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.LinearLayout;
+import android.widget.Toast;
+
+public class RemoveSong extends Activity implements OnClickListener
+{
+    /** Called when the activity is first created. */
+	ArrayList<String> songs = new ArrayList<String>();
+	ArrayList<Button> buttons = new ArrayList<Button>();
+    @Override
+    public void onCreate(Bundle savedInstanceState) 
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+        
+        Bundle bundle = getIntent().getExtras();
+        bundle.getString(key)
+        File file = new File("/storage/sdcard0/Music");
+        String names[] = file.list();
+        if(names == null)
+        {
+            Toast.makeText(this, "No songs.", Toast.LENGTH_LONG).show();
+    		Intent intent = new Intent(this, MainActivity.class);
+    		this.startActivity(intent);
+        }
+        else
+        {        
+            for(int i = 0; i < songs.size(); i++)
+            {
+            	Button b = new Button(this);
+            	b.setId(i);
+            	b.setText(songs.get(i));
+            	b.setWidth(200);
+            	b.setHeight(100);
+            	b.setOnClickListener(this);
+            	LinearLayout l = (LinearLayout) findViewById(R.id.linearLayout1);
+            	l.addView(b);
+            	buttons.add(b);
+            }
+        }
+    }
+	public void onClick(View v) 
+	{
+		Intent intent = new Intent(this, MainActivity.class);
+		intent.putExtra("index", v.getId());
+		this.startActivity(intent);
+	}
+}

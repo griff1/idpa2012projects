@@ -1,0 +1,30 @@
+package com.sample.bluetoothtest;
+
+import android.app.Activity;
+import android.bluetooth.*;
+
+import android.os.Bundle;
+import android.widget.EditText;
+import android.widget.Toast;
+
+public class BluetoothTestActivity extends Activity {
+    /** Called when the activity is first created. */
+	EditText t1;
+	EditText t2;
+    @Override
+    public void onCreate(Bundle savedInstanceState) 
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+        t1 = (EditText) findViewById(R.id.editText1);
+        t1 = (EditText) findViewById(R.id.editText2);
+        
+        BluetoothAdapter mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
+        if (mBluetoothAdapter == null) 
+        {
+        	
+        	finish();
+        }
+        
+    }
+}
